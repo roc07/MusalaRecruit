@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-family: serif;
+}
+.col-sm-10 {
+    border: 2px solid rgb(73, 129, 192);
+}
+.col-sm-8 {
+    border: 1px solid rgba(73, 131, 192, 0.699);
+}
+.col-sm-4 {
+    border: 1px solid rgba(73, 131, 192, 0.699);
+}
+body {
+    border: 4px solid rgba(73, 131, 192, 0.699);
+    border-style: double;
+}
